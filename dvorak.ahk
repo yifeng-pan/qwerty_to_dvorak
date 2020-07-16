@@ -34,5 +34,8 @@ m::m
 .::v
 /::z
 
+-::[
+=::]
+
 f8::Suspend, On
 f9::Suspend, Off

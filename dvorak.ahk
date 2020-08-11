@@ -37,5 +37,5 @@ m::m
 -::[
 =::]
 
-f8::Suspend, On
-f9::Suspend, Off
+Numpad2::Suspend, On
+Numpad5::Suspend, Off
